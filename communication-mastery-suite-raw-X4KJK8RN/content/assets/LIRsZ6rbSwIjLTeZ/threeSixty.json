@@ -1,0 +1,83 @@
+{
+  "version": "3.114.36620.0",
+  "course_id": "5nwKeVvXMu0",
+  "title": "AI Coaching Assistant for Workplace Communication",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Context"
+    },
+    {
+      "title": "Chat Simul"
+    },
+    {
+      "title": "Feedback"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5fERoRj6zAy",
+      "title": "Sld_Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Z9gKcJAeKn",
+      "title": "S1_Missed_Deadline",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5zWfTKtQkiI",
+      "title": "S2_Vague_Update",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5wKMR13JQnE",
+      "title": "S3_Client_Frustration",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "61o2B50vMjh",
+      "title": "S4_Internal_Pressure",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5oISXjEcSH9",
+      "title": "S5_Esclation_Risk",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5rGsTOlmg8O",
+      "title": "S6_High_Stakes",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6GrnhYWpZ0y",
+      "title": "Feedback_1",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6pQU3zR3F3V",
+      "title": "Feedback_2",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6EVbWfRCLgB",
+      "title": "Feedback_3",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5pK5S0nkf6n",
+      "title": "Final_Feedback",
+      "scene_index": "3.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1460,
+    "height": 881
+  },
+  "stage": {
+    "width": 1440,
+    "height": 810
+  }
+}
