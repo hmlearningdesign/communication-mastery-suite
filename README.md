@@ -12,27 +12,27 @@ The solution focuses on helping learners move from self-awareness to practical a
 
 **What the Suite Includes**
 
-AI Communication Simulator
-Communication Style Diagnostic
-Conflict on the Fly
-Reflection and reinforcement tools
+- AI Communication Simulator
+- Communication Style Diagnostic
+- Conflict on the Fly
+- Reflection and reinforcement tools
 
 **Tools Used**
 
-Articulate Storyline 360
-Articulate Rise 360
-Figma
-Netlify
-Vercel
+- Articulate Storyline 360
+- Articulate Rise 360
+- Figma
+- Netlify
+- Vercel
 
 **What This Demonstrates**
 
-branching scenario design
-variable-driven feedback systems
-learner journey architecture
-performance support strategy
-business-focused instructional design
-workplace learning intervention design
+- branching scenario design
+- variable-driven feedback systems
+- learner journey architecture
+- performance support strategy
+- business-focused instructional design
+- workplace learning intervention design
 
 **Live Project**
 
